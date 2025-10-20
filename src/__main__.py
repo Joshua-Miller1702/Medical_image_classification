@@ -1,6 +1,5 @@
 from src.dataloaders import create_data_loaders
 from src.training import train_model
-import os
 import pandas as pd
 import torch
 from src.model import CNNmodel
