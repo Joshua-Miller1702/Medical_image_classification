@@ -7,3 +7,5 @@ Objectives:
 4. Evaluate performance using metrics relevant to medical applications (precision, recall, F1, AUC).
 5. Use Grad-CAM for interpretability — visualising the regions the model focuses on.
 6. Summarise results in a Power BI or Tableau dashboard and a concise technical report.
+
+Get data here - kaggle competitions download -c histopathologic-cancer-detection
