@@ -35,7 +35,7 @@ def main_preds():
     model.to("cuda")
     model.eval()
 
-    threshold = 0.5
+    threshold = 0.85
     predictions = []
     with torch.no_grad():
         for imgs in test_loader:
